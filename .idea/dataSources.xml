@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3543701346">
+    <data-source source="LOCAL" name="Rails demo_app_jruby: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="24c543ce-9cba-43ec-8217-da0b74ca81cf">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:demo_app_jruby_production</jdbc-url>
+      <user-name>demo_app_jruby</user-name>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>jar://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails demo_app_jruby: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="7aef7f1c-eb65-4299-b0b6-9d0e7d40ee1d">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:demo_app_jruby_test</jdbc-url>
+      <user-name>demo_app_jruby</user-name>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>jar://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails demo_app_jruby: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="856867d7-1331-4797-b2cd-02846194af0e">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:demo_app_jruby_development</jdbc-url>
+      <user-name>demo_app_jruby</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>jar://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
